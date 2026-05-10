@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+tasks.json
+.env
+.vscode/
